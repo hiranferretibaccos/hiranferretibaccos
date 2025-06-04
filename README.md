@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hiran Ferreti Baccos from São Paulo/SP (Brazil) 🇧🇷
 - 👀 I’m interested in: Software Development (Front-end/Back-end).
-- 💻 I’m currently learning: Angular, React, TypeScript, JavaScript, Java, C#, HTML, CSS, Git and Figma.
-- 🏢 I’m looking to collaborate on: https://www.linkedin.com/company/global-hits
+- 💻 I’m currently working: Angular, React, TypeScript, JavaScript, Java, C#, HTML, CSS, Git and Figma.
+- 🏢 I’m collaborating on: https://www.linkedin.com/company/global-hits
 - 📫 How to reach me: hiranferretibaccos4@outlook.com | 
