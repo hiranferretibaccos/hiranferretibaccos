@@ -2,4 +2,4 @@
 - 👀 I’m interested in: Software Development (Front-end/Back-end).
 - 💻 I’m currently working: Angular, React, TypeScript, JavaScript, Java, C#, HTML, CSS, Git and Figma.
 - 🏢 I’m collaborating on: https://www.linkedin.com/company/global-hits
-- 📫 How to reach me: hiranferretibaccos4@outlook.com | 
+- 📫 How to reach me: hiranferretibaccos4@outlook.com | https://www.linkedin.com/in/hiranferretibaccos4
